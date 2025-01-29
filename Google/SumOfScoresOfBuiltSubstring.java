@@ -1,6 +1,6 @@
 package Google;
 
-public class SumOfScoresOfSubstring {
+public class SumOfScoresOfBuiltSubstring {
         // calculate Z array
     public int[] calculateZ(char[] input) {
         int[] Z = new int[input.length];
